@@ -1,0 +1,111 @@
+1. bioRxiv [Preprint]. 2024 Oct 29:2024.10.10.617697. doi: 
+10.1101/2024.10.10.617697.
+
+MicrobiomeKG: Bridging Microbiome Research and Host Health Through Knowledge 
+Graphs.
+
+Goetz SL(1), Glen AK(2), Glusman G(1).
+
+Author information:
+(1)Institute for Systems Biology, 401 Terry Ave N, Seattle, WA 98109, USA.
+(2)Oregon State University, 1500 SW Jefferson Way, Corvallis, OR 97331.
+
+The microbiome represents a complex community of trillions of microorganisms 
+residing in various body parts, and plays critical roles in maintaining host 
+health and well-being. Understanding the interactions between microbiota and 
+host offers valuable insights into potential strategies to promote health, 
+including microbiome-targeted interventions. We have created MicrobiomeKG, a 
+Knowledge Graph for microbiome research, bridging various taxa and microbial 
+pathways with host health. This novel knowledge graph derives 
+algorithmically-generated knowledge assertions from the supplemental tables 
+supporting published microbiome papers, and is deployed for integrative analysis 
+and hypothesis generation via the Biomedical Data Translator ecosystem.
+
+DOI: 10.1101/2024.10.10.617697
+PMCID: PMC11507793
+PMID: 39464038
+
+Conflict of interest statement: Conflict of Interest Statement The authors 
+declare no conflicts of interest.
+
+1. Microorganisms. 2024 Jun 24;12(7):1282. doi: 10.3390/microorganisms12071282.
+
+Spatiotemporal Variations in Co-Occurrence Patterns of Planktonic Prokaryotic 
+Microorganisms along the Yangtze River.
+
+Du W(1)(2), Li J(2), Zhang G(2), Yu K(1), Liu S(3).
+
+Author information:
+(1)School of Environment and Energy, Peking University Shenzhen Graduate School, 
+Shenzhen 518055, China.
+(2)The Key Laboratory of Water and Sediment Sciences, Ministry of Education, 
+Department of Environmental Engineering, Peking University, Beijing 100871, 
+China.
+(3)College of Resources and Environmental Sciences, China Agricultural 
+University, Beijing 100193, China.
+
+Bacteria and archaea are foundational life forms on Earth and play crucial roles 
+in the development of our planet's biological hierarchy. Their interactions 
+influence various aspects of life, including eukaryotic cell biology, molecular 
+biology, and ecological dynamics. However, the coexistence network patterns of 
+these microorganisms within natural river ecosystems, vital for nutrient cycling 
+and environmental health, are not well understood. To address this knowledge 
+gap, we systematically explored the non-random coexistence patterns of 
+planktonic bacteria and archaea in the 6000-km stretch of the Yangtze River by 
+using high-throughput sequencing technology. By analyzing the O/R ratio, 
+representing the divergence between observed (O%) and random (R%) co-existence 
+incidences, and the module composition, we found a preference of both bacteria 
+and archaea for intradomain associations over interdomain associations. Seasons 
+notably influenced the co-existence of bacteria and archaea, and archaea played 
+a more crucial role in spring as evidenced by their predominant presence of 
+interphyla co-existence and more species as keystone ones. The autumn network 
+was characterized by a higher node or edge number, greater graph density, node 
+degree, degree centralization, and nearest neighbor degree, indicating a more 
+complex and interconnected structure. Landforms markedly affected microbial 
+associations, with more complex networks and more core species found in plain 
+and non-source areas. Distance-decay analysis suggested the importance of 
+geographical distance in shaping bacteria and archaea co-existence patterns 
+(more pronounced in spring). Natural, nutrient, and metal factors, including 
+water temperature, NH4+-N, Fe, Al, and Ni were identified as crucial 
+determinants shaping the co-occurrence patterns. Overall, these findings 
+revealed the dynamics of prokaryotic taxa coexistence patterns in response to 
+varying environmental conditions and further contributed to a broader 
+understanding of microbial ecology in freshwater biogeochemical cycling.
+
+DOI: 10.3390/microorganisms12071282
+PMCID: PMC11278652
+PMID: 39065051
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+1. medRxiv [Preprint]. 2023 Nov 13:2023.11.13.23298467. doi: 
+10.1101/2023.11.13.23298467.
+
+Genotype-microbiome-metabolome associations in early childhood, and their link 
+to BMI and childhood obesity.
+
+Aparicio A, Sun Z, Gold DR, Litonjua AA, Weiss ST, Lee-Sarwar K, Liu YY.
+
+The influence of genotype on defining the human gut microbiome has been 
+extensively studied, but definite conclusions have not yet been found. To fill 
+this knowledge gap, we leverage data from children enrolled in the Vitamin D 
+Antenatal Asthma Reduction Trial (VDAART) from 6 months to 8 years old. We focus 
+on a pool of 12 genes previously found to be associated with the gut microbiome 
+in independent studies, establishing a Bonferroni corrected significance level 
+of p-value < 2.29 × 10 -6 . We identified significant associations between SNPs 
+in the FHIT gene (known to be associated with obesity and type 2 diabetes) and 
+obesity-related microbiome features, and the children's BMI through their 
+childhood. Based on these associations, we defined a set of SNPs of interest and 
+a set of taxa of interest. Taking a multi-omics approach, we integrated plasma 
+metabolome data into our analysis and found simultaneous associations among 
+children's BMI, the SNPs of interest, and the taxa of interest, involving amino 
+acids, lipids, nucleotides, and xenobiotics. Using our association results, we 
+constructed a quadripartite graph where each disjoint node set represents SNPs 
+in the FHIT gene, microbial taxa, plasma metabolites, or BMI measurements. 
+Network analysis led to the discovery of patterns that identify several genetic 
+variants, microbial taxa and metabolites as new potential markers for obesity, 
+type 2 diabetes, or insulin resistance risk.
+
+DOI: 10.1101/2023.11.13.23298467
+PMCID: PMC10680902
+PMID: 38014043

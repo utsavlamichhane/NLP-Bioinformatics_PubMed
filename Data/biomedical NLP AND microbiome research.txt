@@ -1,0 +1,110 @@
+1. Front Microbiol. 2021 Feb 19;12:634511. doi: 10.3389/fmicb.2021.634511. 
+eCollection 2021.
+
+Applications of Machine Learning in Human Microbiome Studies: A Review on 
+Feature Selection, Biomarker Identification, Disease Prediction and Treatment.
+
+Marcos-Zambrano LJ(1), Karaduzovic-Hadziabdic K(2), Loncar Turukalo T(3), 
+Przymus P(4), Trajkovik V(5), Aasmets O(6)(7), Berland M(8), Gruca A(9), Hasic 
+J(10), Hron K(11), Klammsteiner T(12), Kolev M(13), Lahti L(14), Lopes 
+MB(15)(16), Moreno V(17)(18)(19)(20), Naskinova I(13), Org E(6), Paciência 
+I(21), Papoutsoglou G(22), Shigdel R(23), Stres B(24), Vilne B(25), Yousef 
+M(26)(27), Zdravevski E(5), Tsamardinos I(22), Carrillo de Santa Pau E(1), 
+Claesson MJ(28), Moreno-Indias I(29)(30), Truu J(31).
+
+Author information:
+(1)Computational Biology Group, Precision Nutrition and Cancer Research Program, 
+IMDEA Food Institute, Madrid, Spain.
+(2)Faculty of Engineering and Natural Sciences, International University of 
+Sarajevo, Sarajevo, Bosnia and Herzegovina.
+(3)Faculty of Technical Sciences, University of Novi Sad, Novi Sad, Serbia.
+(4)Faculty of Mathematics and Computer Science, Nicolaus Copernicus University, 
+Toruń, Poland.
+(5)Faculty of Computer Science and Engineering, Ss. Cyril and Methodius 
+University, Skopje, North Macedonia.
+(6)Institute of Genomics, Estonian Genome Centre, University of Tartu, Tartu, 
+Estonia.
+(7)Department of Biotechnology, Institute of Molecular and Cell Biology, 
+University of Tartu, Tartu, Estonia.
+(8)Université Paris-Saclay, INRAE, MGP, Jouy-en-Josas, France.
+(9)Department of Computer Networks and Systems, Silesian University of 
+Technology, Gliwice, Poland.
+(10)University Sarajevo School of Science and Technology, Sarajevo, Bosnia and 
+Herzegovina.
+(11)Department of Mathematical Analysis and Applications of Mathematics, Palacký 
+University, Olomouc, Czechia.
+(12)Department of Microbiology, University of Innsbruck, Innsbruck, Austria.
+(13)South West University "Neofit Rilski", Blagoevgrad, Bulgaria.
+(14)Department of Computing, University of Turku, Turku, Finland.
+(15)NOVA Laboratory for Computer Science and Informatics (NOVA LINCS), FCT, UNL, 
+Caparica, Portugal.
+(16)Centro de Matemática e Aplicações (CMA), FCT, UNL, Caparica, Portugal.
+(17)Oncology Data Analytics Program, Catalan Institute of Oncology (ICO) 
+Barcelona, Spain.
+(18)Colorectal Cancer Group, Institut de Recerca Biomedica de Bellvitge 
+(IDIBELL), Barcelona, Spain.
+(19)Consortium for Biomedical Research in Epidemiology and Public Health 
+(CIBERESP), Barcelona, Spain.
+(20)Department of Clinical Sciences, Faculty of Medicine, University of 
+Barcelona, Barcelona, Spain.
+(21)EPIUnit - Instituto de Saúde Pública da Universidade do Porto, Porto, 
+Portugal.
+(22)Department of Computer Science, University of Crete, Heraklion, Greece.
+(23)Department of Clinical Science, University of Bergen, Bergen, Norway.
+(24)Group for Microbiology and Microbial Biotechnology, Department of Animal 
+Science, University of Ljubljana, Ljubljana, Slovenia.
+(25)Bioinformatics Research Unit, Riga Stradins University, Riga, Latvia.
+(26)Department of Information Systems, Zefat Academic College, Zefat, Israel.
+(27)Galilee Digital Health Research Center (GDH), Zefat Academic College, Zefat, 
+Israel.
+(28)School of Microbiology & APC Microbiome Ireland, University College Cork, 
+Cork, Ireland.
+(29)Unidad de Gestión Clínica de Endocrinología y Nutrición, Instituto de 
+Investigación Biomédica de Málaga (IBIMA), Hospital Clínico Universitario Virgen 
+de la Victoria, Universidad de Málaga, Málaga, Spain.
+(30)Centro de Investigación Biomédica en Red de Fisiopatología de la Obesidad y 
+la Nutrición (CIBEROBN), Instituto de Salud Carlos III, Madrid, Spain.
+(31)Institute of Molecular and Cell Biology, University of Tartu, Tartu, 
+Estonia.
+
+The number of microbiome-related studies has notably increased the availability 
+of data on human microbiome composition and function. These studies provide the 
+essential material to deeply explore host-microbiome associations and their 
+relation to the development and progression of various complex diseases. 
+Improved data-analytical tools are needed to exploit all information from these 
+biological datasets, taking into account the peculiarities of microbiome data, 
+i.e., compositional, heterogeneous and sparse nature of these datasets. The 
+possibility of predicting host-phenotypes based on taxonomy-informed feature 
+selection to establish an association between microbiome and predict disease 
+states is beneficial for personalized medicine. In this regard, machine learning 
+(ML) provides new insights into the development of models that can be used to 
+predict outputs, such as classification and prediction in microbiology, infer 
+host phenotypes to predict diseases and use microbial communities to stratify 
+patients by their characterization of state-specific microbial signatures. Here 
+we review the state-of-the-art ML methods and respective software applied in 
+human microbiome studies, performed as part of the COST Action ML4Microbiome 
+activities. This scoping review focuses on the application of ML in microbiome 
+studies related to association and clinical use for diagnostics, prognostics, 
+and therapeutics. Although the data presented here is more related to the 
+bacterial community, many algorithms could be applied in general, regardless of 
+the feature type. This literature and software review covering this broad topic 
+is aligned with the scoping review methodology. The manual identification of 
+data sources has been complemented with: (1) automated publication search 
+through digital libraries of the three major publishers using natural language 
+processing (NLP) Toolkit, and (2) an automated identification of relevant 
+software repositories on GitHub and ranking of the related research papers 
+relying on learning to rank approach.
+
+Copyright © 2021 Marcos-Zambrano, Karaduzovic-Hadziabdic, Loncar Turukalo, 
+Przymus, Trajkovik, Aasmets, Berland, Gruca, Hasic, Hron, Klammsteiner, Kolev, 
+Lahti, Lopes, Moreno, Naskinova, Org, Paciência, Papoutsoglou, Shigdel, Stres, 
+Vilne, Yousef, Zdravevski, Tsamardinos, Carrillo de Santa Pau, Claesson, 
+Moreno-Indias and Truu.
+
+DOI: 10.3389/fmicb.2021.634511
+PMCID: PMC7962872
+PMID: 33737920
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

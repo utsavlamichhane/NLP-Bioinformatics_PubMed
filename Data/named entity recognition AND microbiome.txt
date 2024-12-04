@@ -1,0 +1,106 @@
+1. Bioinformatics. 2024 Jan 2;40(1):btad771. doi: 10.1093/bioinformatics/btad771.
+
+Mining literature and pathway data to explore the relations of ketamine with 
+neurotransmitters and gut microbiota using a knowledge-graph.
+
+Liu T(1)(2), Feenstra KA(1), Huang Z(2), Heringa J(1).
+
+Author information:
+(1)Integrative Bioinformatics, Vrije Universiteit Amsterdam, Amsterdam 1081 HV, 
+The Netherlands.
+(2)Learning & Reasoning Group, Vrije Universiteit Amsterdam, Amsterdam 1081 HV, 
+The Netherlands.
+
+MOTIVATION: Up-to-date pathway knowledge is usually presented in scientific 
+publications for human reading, making it difficult to utilize these resources 
+for semantic integration and computational analysis of biological pathways. We 
+here present an approach to mining knowledge graphs by combining manual curation 
+with automated named entity recognition and automated relation extraction. This 
+approach allows us to study pathway-related questions in detail, which we here 
+show using the ketamine pathway, aiming to help improve understanding of the 
+role of gut microbiota in the antidepressant effects of ketamine.
+RESULTS: The thus devised ketamine pathway 'KetPath' knowledge graph comprises 
+five parts: (i) manually curated pathway facts from images; (ii) recognized 
+named entities in biomedical texts; (iii) identified relations between named 
+entities; (iv) our previously constructed microbiota and pre-/probiotics 
+knowledge bases; and (v) multiple community-accepted public databases. We first 
+assessed the performance of automated extraction of relations between named 
+entities using the specially designed state-of-the-art tool BioKetBERT. The 
+query results show that we can retrieve drug actions, pathway relations, 
+co-occurring entities, and their relations. These results uncover several 
+biological findings, such as various gut microbes leading to increased 
+expression of BDNF, which may contribute to the sustained antidepressant effects 
+of ketamine. We envision that the methods and findings from this research will 
+aid researchers who wish to integrate and query data and knowledge from multiple 
+biomedical databases and literature simultaneously.
+AVAILABILITY AND IMPLEMENTATION: Data and query protocols are available in the 
+KetPath repository at https://dx.doi.org/10.5281/zenodo.8398941 and 
+https://github.com/tingcosmos/KetPath.
+
+© The Author(s) 2023. Published by Oxford University Press.
+
+DOI: 10.1093/bioinformatics/btad771
+PMCID: PMC10769815
+PMID: 38147362 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+1. Artif Intell Med. 2023 Nov;145:102677. doi: 10.1016/j.artmed.2023.102677. Epub
+ 2023 Oct 5.
+
+Food4healthKG: Knowledge graphs for food recommendations based on gut microbiota 
+and mental health.
+
+Fu C(1), Huang Z(2), van Harmelen F(3), He T(4), Jiang X(5).
+
+Author information:
+(1)National Engineering Research Center for E-Learning, Central China Normal 
+University, Wuhan, China; School of Computer Science, Central China Normal 
+University, Wuhan, China; Department of Computer Science, Vrije Universiteit 
+Amsterdam, Amsterdam, The Netherlands; National Language Resources Monitor 
+Research Center for Network Media, Central China Normal University, Wuhan, 
+China.
+(2)Department of Computer Science, Vrije Universiteit Amsterdam, Amsterdam, The 
+Netherlands; Clinical Research Center for Mental Disorders, Shanghai Pudong New 
+Area Mental Health Center, Tongji University School of Medicine, Shanghai, 
+China; Deep Blue Technology Group, Shanghai, China.
+(3)Department of Computer Science, Vrije Universiteit Amsterdam, Amsterdam, The 
+Netherlands.
+(4)School of Computer Science, Central China Normal University, Wuhan, China; 
+National Language Resources Monitor Research Center for Network Media, Central 
+China Normal University, Wuhan, China.
+(5)School of Computer Science, Central China Normal University, Wuhan, China; 
+National Language Resources Monitor Research Center for Network Media, Central 
+China Normal University, Wuhan, China. Electronic address: 
+xpjiang@mail.ccnu.edu.cn.
+
+Food is increasingly acknowledged as a powerful means to promote and maintain 
+mental health. The introduction of the gut-brain axis has been instrumental in 
+understanding the impact of food on mental health. It is widely reported that 
+food can significantly influence gut microbiota metabolism, thereby playing a 
+pivotal role in maintaining mental health. However, the vast amount of 
+heterogeneous data published in recent research lacks systematic integration and 
+application development. To remedy this, we construct a comprehensive knowledge 
+graph, named Food4healthKG, focusing on food, gut microbiota, and mental 
+diseases. The constructed workflow includes the integration of numerous 
+heterogeneous data, entity linking to a normalized format, and the well-designed 
+representation of the acquired knowledge. To illustrate the availability of 
+Food4healthKG, we design two case studies: the knowledge query and the food 
+recommendation based on Food4healthKG. Furthermore, we propose two evaluation 
+methods to validate the quality of the results obtained from Food4healthKG. The 
+results demonstrate the system's effectiveness in practical applications, 
+particularly in providing convincing food recommendations based on gut 
+microbiota and mental health. Food4healthKG is accessible at 
+https://github.com/ccszbd/Food4healthKG.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.artmed.2023.102677
+PMID: 37925207 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest We declare 
+that we have no financial and personal relationships with other people or 
+organizations that can inappropriately influence our work, there is no 
+professional or other personal interest of any nature or kind in any product, 
+service and/or company that could be construed as influencing the position 
+presented in, or the review of, the manuscript.
